@@ -1,0 +1,5 @@
+# Node modules (if any)
+node_modules/
+
+# Logs
+npm-debug.log
